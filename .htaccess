@@ -1,0 +1,5 @@
+
+Options  +Indexes
+AddType text/html .js .min.js
+AddOutputFilter INCLUDES .js .min.js
+AddType application/x-httpd-cgi .cgi .pl
